@@ -28,7 +28,7 @@ module acquisition_control_v1_0 (
   assign o_bram_rst = !rstn;
   assign o_bram_en = 1'b1;
 
-  reg [9:0] r10_add_aux;
+  reg [9:0] r10_add_aux; /* Address index */
 
   always @(posedge clk)
     if (!rstn) begin
