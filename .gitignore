@@ -1,3 +1,5 @@
-/project
+*/project
 /python/.ipynb_checkpoints/
 /script/.Xil/*
+*.str
+*/tb/

@@ -20,7 +20,7 @@ This repository include a python script for generate .mem files. Files generated
 
 ## List of projects
 - **goertzel_rtu.tcl**  
-This project uses the PL to implement a driver for the ZMOD ADC at 100MHz. IN the PS, RTU execute a goertzel algorithm to detect a 30Mhz harmonic.  
+This project uses the PL to implement a driver for the ZMOD ADC at 100MHz. In the PS, RTU execute a goertzel algorithm to detect a 30Mhz harmonic.  
 For more detailed explanation, visit https://www.controlpaths.com  
 Project is uploaded to hackster.io
 Script for generate block design only available for Vivado 2019.1.
